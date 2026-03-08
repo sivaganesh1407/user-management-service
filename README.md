@@ -1,6 +1,6 @@
 # User Management Service
 
-A REST API for managing users, built with Spring Boot 4, JPA, and H2.
+A REST API for managing users, built with Spring Boot, JPA, and H2.
 
 ---
 
@@ -8,8 +8,8 @@ A REST API for managing users, built with Spring Boot 4, JPA, and H2.
 
 | Layer        | Technology              |
 |-------------|-------------------------|
-| Framework   | Spring Boot 4           |
-| Language    | Java 17                 |
+| Framework   | Spring Boot 2.7         |
+| Language    | Java 11+                |
 | Data        | Spring Data JPA, H2     |
 | Build       | Maven                   |
 | Validation  | Bean Validation (JSR 380) |
