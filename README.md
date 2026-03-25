@@ -1,5 +1,7 @@
 # User Management Service
 
+> **Disclaimer:** This repository is an **independent, personal learning and portfolio project**. It is not affiliated with, endorsed by, or representative of any employer or organization. All code and documentation are provided as-is for educational purposes.
+
 A REST API for managing users, built with Spring Boot, JPA, and H2.
 
 ---
@@ -208,7 +210,7 @@ The API runs at **http://localhost:8080**
 H2 Console: **http://localhost:8080/h2-console**
 - JDBC URL: `jdbc:h2:mem:userdb`
 - Username: `sa`
-- Password: (empty)
+- Password: leave empty (default), or set `SPRING_DATASOURCE_PASSWORD` if you override the datasource password locally
 
 ---
 

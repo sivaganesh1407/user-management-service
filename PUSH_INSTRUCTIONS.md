@@ -22,18 +22,18 @@ After creating the repo, GitHub shows "push an existing repository from the comm
 **Run these commands in your terminal:**
 
 ```bash
-cd /Users/sivagolla/Downloads/user-management-service
+cd /path/to/user-management-service
 
-git remote add origin https://github.com/sivagolla/user-management-service.git
+git remote add origin https://github.com/YOUR_USERNAME/user-management-service.git
 git branch -M main
 git push -u origin main
 ```
 
-Replace **sivagolla** with your actual GitHub username if different.
+Replace **YOUR_USERNAME** with your actual GitHub username.
 
 - If GitHub asks for login, use **Personal Access Token** as password (Settings → Developer settings → Personal access tokens).
 - If you use SSH instead:  
-  `git remote add origin git@github.com:sivagolla/user-management-service.git`
+  `git remote add origin git@github.com:YOUR_USERNAME/user-management-service.git`
 
 ---
 
@@ -42,7 +42,7 @@ Replace **sivagolla** with your actual GitHub username if different.
 After a successful push, your project link will be:
 
 ```
-https://github.com/sivagolla/user-management-service
+https://github.com/YOUR_USERNAME/user-management-service
 ```
 
 Use this URL in:

@@ -9,7 +9,7 @@ Use this when adding the project to your LinkedIn profile or posting about it.
 After pushing, your repo URL will be:
 
 ```
-https://github.com/sivagolla/user-management-service
+https://github.com/YOUR_USERNAME/user-management-service
 ```
 
 ---
@@ -29,7 +29,7 @@ I built a User Management REST API with Spring Boot, JPA, and H2.
 
 Tech: Java 11, Spring Boot 2.7, Spring Data JPA, H2, Maven
 
-🔗 https://github.com/sivagolla/user-management-service
+🔗 https://github.com/YOUR_USERNAME/user-management-service
 
 #SpringBoot #Java #RESTAPI #BackendDevelopment #SoftwareEngineering
 ```
@@ -52,7 +52,7 @@ Tech stack: Java 11, Spring Boot 2.7, Spring Data JPA, H2, Maven, JUnit 5, Mocki
 
 Check out the code and README for setup and API examples 👇
 
-🔗 https://github.com/sivagolla/user-management-service
+🔗 https://github.com/YOUR_USERNAME/user-management-service
 
 #Java #SpringBoot #RESTAPI #Backend #SoftwareDevelopment
 ```
@@ -76,7 +76,7 @@ Check out the code and README for setup and API examples 👇
 3. **Occupation:** Your role (e.g. Developer, Student).  
 4. **Date:** Start (and end) date.  
 5. **Description:** Use one of the post texts above (short version is fine).  
-6. **URL:** Your GitHub repo link (e.g. `https://github.com/sivagolla/user-management-service`).  
+6. **URL:** Your GitHub repo link (e.g. `https://github.com/YOUR_USERNAME/user-management-service`).  
 7. **Optional:** Attach 1–2 screenshots (README + API or tests).
 
 Save and you're done.
